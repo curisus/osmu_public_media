@@ -3,123 +3,123 @@
   "files": [
     {
       "public_path": "2026-10-16/top_1/card_01.png",
-      "sha256": "b9fefc7f6fd5a58d9557ad2e03d2bea5785ee56e669f015dffdf6d4c20a2bc30",
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
+      "sha256": "6f72fff3b23b8e0828008f45e74cf4716e900f24fc251ce646ec8846f366e7e7",
       "width": 2160,
       "height": 2700,
-      "bytes": 482017,
-      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+      "bytes": 481339
     },
     {
       "public_path": "2026-10-16/top_1/card_02.png",
-      "sha256": "57abd39447e971d4419ae4e6dcbc9408695583d4764191ea7a9580a0b55e6f23",
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
+      "sha256": "2b649f7d7e9480eae37e8b4e514592d54198002e4439b7718f75b7b0907a2240",
       "width": 2160,
       "height": 2700,
-      "bytes": 360063,
-      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+      "bytes": 362540
     },
     {
       "public_path": "2026-10-16/top_1/card_03.png",
-      "sha256": "e0d094e14ef40af41f8c4d9da9f59e08ff79d36479eb277ed1701b3c1d76cd3a",
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
+      "sha256": "555610bfc67b7e143d4c6c69b7311ba13f14b1f02c421d78e90a25d08112195d",
       "width": 2160,
       "height": 2700,
-      "bytes": 197883,
-      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+      "bytes": 202611
     },
     {
       "public_path": "2026-10-16/top_2/card_01.png",
-      "sha256": "4716dfe4c8a073a66d76f398d1216397b6a5c2decad62c5924be06bb0ccaaf5d",
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "sha256": "2803a80df916d7289aabf7f17cb64122dbe8d7748b2b541581f34fe94353e079",
       "width": 2160,
       "height": 2700,
-      "bytes": 405145,
-      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+      "bytes": 407657
     },
     {
       "public_path": "2026-10-16/top_2/card_02.png",
-      "sha256": "5ad51eea6263b15207c9d17c7806c67f69367db2d5ea3438e880c1dd21296705",
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "sha256": "f1433c0a1e6e7e8831ebdcf347039c70395035c3ff05e6c54624f6223f7cb4c3",
       "width": 2160,
       "height": 2700,
-      "bytes": 176942,
-      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+      "bytes": 176030
     },
     {
       "public_path": "2026-10-16/top_2/card_03.png",
-      "sha256": "f1582840c8f2e81c930b92655cb189c7c8ba017fca6d346352b46043de1323f6",
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "sha256": "a9e8861f912a2a5c60297f2fcb18f3a9bc838951b04a9df6a7276c94db2529a3",
       "width": 2160,
       "height": 2700,
-      "bytes": 152655,
-      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+      "bytes": 166333
     },
     {
       "public_path": "2026-10-16/top_3/card_01.png",
-      "sha256": "86335e03a43777cc8548e0e79c47db06faf9c0ac6c558ef0fd7db731f63d8f0f",
+      "source_article_url": "https://byline.network/2026/10/14_291827733/",
+      "sha256": "e5afb111b5d8eb5f6b4dea286dde284a2e41d91d8cbe26bbc582d477ded4e57e",
       "width": 2160,
       "height": 2700,
-      "bytes": 151516,
-      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+      "bytes": 149206
     },
     {
       "public_path": "2026-10-16/top_3/card_02.png",
-      "sha256": "eadde3974ba66d7153848d337bc51ac3533e121ea27b4de836302c622b485601",
+      "source_article_url": "https://byline.network/2026/10/14_291827733/",
+      "sha256": "84c57879f7ea6100b7a00716f97fb5ebbddf0084e6afc1a22ef329f7871ed5a6",
       "width": 2160,
       "height": 2700,
-      "bytes": 510774,
-      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+      "bytes": 508635
     },
     {
       "public_path": "2026-10-16/top_3/card_03.png",
-      "sha256": "de9b5acbfad5785b31282751955facaed127b2d9cfa47505117ee3a00fa107ae",
+      "source_article_url": "https://byline.network/2026/10/14_291827733/",
+      "sha256": "1c1a8224650337c99fd5cdca67637d7d0b2da3630158198a161383a8c292cb82",
       "width": 2160,
       "height": 2700,
-      "bytes": 167851,
-      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+      "bytes": 156383
     },
     {
       "public_path": "2026-10-16/top_9/card_01.png",
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
       "sha256": "2c0b3f367560f09efcb48798b5f7af8907b83f7e3f2133324c9ec06256c2141b",
       "width": 2160,
       "height": 2700,
-      "bytes": 204943,
-      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+      "bytes": 204943
     },
     {
       "public_path": "2026-10-16/top_9/card_02.png",
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
       "sha256": "b444827add11e9631888cd587e55283725405751f806a93175c6ca7f261907ae",
       "width": 2160,
       "height": 2700,
-      "bytes": 481516,
-      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+      "bytes": 481516
     },
     {
       "public_path": "2026-10-16/top_9/card_03.png",
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
       "sha256": "db1899b4d852b07acc95d79e95abf90ee78592e5bc9619cc5312f9f41d097f68",
       "width": 2160,
       "height": 2700,
-      "bytes": 175025,
-      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+      "bytes": 175025
     },
     {
       "public_path": "2026-10-16/a8/card_01.png",
-      "sha256": "710948119147f7c70c92ce6bd8d607dd3c3c434dad9366ba4363d0db5bdc0910",
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html",
+      "sha256": "c5d8f86ca6d8aa3fedc011a1b5a023a1bc1c2031810e8ab3221387a23257257d",
       "width": 2160,
       "height": 2700,
-      "bytes": 199007,
-      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+      "bytes": 193780
     },
     {
       "public_path": "2026-10-16/a8/card_02.png",
-      "sha256": "c58fc843d9c67cdd477cb1695b18f8c7382e590336a49b504e1e89b2dd76666a",
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html",
+      "sha256": "f90eae88c684365e0adeb58eeeac71b377dddb46cbd9240da76bc049a801f376",
       "width": 2160,
       "height": 2700,
-      "bytes": 192002,
-      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+      "bytes": 163258
     },
     {
       "public_path": "2026-10-16/a8/card_03.png",
-      "sha256": "b9276aa30f3badea40e4dcaac76f199434db77e3f78a058cec857a9f33cbcb9b",
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html",
+      "sha256": "c9d990f22b43261f6439e7a2549fb43a05a34e7bb89bc66a1b1d85f182ca44eb",
       "width": 2160,
       "height": 2700,
-      "bytes": 182531,
-      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+      "bytes": 174348
     }
   ]
 }
