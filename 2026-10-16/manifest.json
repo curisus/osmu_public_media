@@ -1,0 +1,125 @@
+{
+  "kind": "public_card_media",
+  "files": [
+    {
+      "public_path": "2026-10-16/top_1/card_01.png",
+      "sha256": "b9fefc7f6fd5a58d9557ad2e03d2bea5785ee56e669f015dffdf6d4c20a2bc30",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 482017,
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+    },
+    {
+      "public_path": "2026-10-16/top_1/card_02.png",
+      "sha256": "57abd39447e971d4419ae4e6dcbc9408695583d4764191ea7a9580a0b55e6f23",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 360063,
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+    },
+    {
+      "public_path": "2026-10-16/top_1/card_03.png",
+      "sha256": "e0d094e14ef40af41f8c4d9da9f59e08ff79d36479eb277ed1701b3c1d76cd3a",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 197883,
+      "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300"
+    },
+    {
+      "public_path": "2026-10-16/top_2/card_01.png",
+      "sha256": "4716dfe4c8a073a66d76f398d1216397b6a5c2decad62c5924be06bb0ccaaf5d",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 405145,
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "public_path": "2026-10-16/top_2/card_02.png",
+      "sha256": "5ad51eea6263b15207c9d17c7806c67f69367db2d5ea3438e880c1dd21296705",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 176942,
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "public_path": "2026-10-16/top_2/card_03.png",
+      "sha256": "f1582840c8f2e81c930b92655cb189c7c8ba017fca6d346352b46043de1323f6",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 152655,
+      "source_article_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "public_path": "2026-10-16/top_3/card_01.png",
+      "sha256": "86335e03a43777cc8548e0e79c47db06faf9c0ac6c558ef0fd7db731f63d8f0f",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 151516,
+      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+    },
+    {
+      "public_path": "2026-10-16/top_3/card_02.png",
+      "sha256": "eadde3974ba66d7153848d337bc51ac3533e121ea27b4de836302c622b485601",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 510774,
+      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+    },
+    {
+      "public_path": "2026-10-16/top_3/card_03.png",
+      "sha256": "de9b5acbfad5785b31282751955facaed127b2d9cfa47505117ee3a00fa107ae",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 167851,
+      "source_article_url": "https://byline.network/2026/10/14_291827733/"
+    },
+    {
+      "public_path": "2026-10-16/top_9/card_01.png",
+      "sha256": "2c0b3f367560f09efcb48798b5f7af8907b83f7e3f2133324c9ec06256c2141b",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 204943,
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+    },
+    {
+      "public_path": "2026-10-16/top_9/card_02.png",
+      "sha256": "b444827add11e9631888cd587e55283725405751f806a93175c6ca7f261907ae",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 481516,
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+    },
+    {
+      "public_path": "2026-10-16/top_9/card_03.png",
+      "sha256": "db1899b4d852b07acc95d79e95abf90ee78592e5bc9619cc5312f9f41d097f68",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 175025,
+      "source_article_url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/"
+    },
+    {
+      "public_path": "2026-10-16/a8/card_01.png",
+      "sha256": "710948119147f7c70c92ce6bd8d607dd3c3c434dad9366ba4363d0db5bdc0910",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 199007,
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+    },
+    {
+      "public_path": "2026-10-16/a8/card_02.png",
+      "sha256": "c58fc843d9c67cdd477cb1695b18f8c7382e590336a49b504e1e89b2dd76666a",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 192002,
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+    },
+    {
+      "public_path": "2026-10-16/a8/card_03.png",
+      "sha256": "b9276aa30f3badea40e4dcaac76f199434db77e3f78a058cec857a9f33cbcb9b",
+      "width": 2160,
+      "height": 2700,
+      "bytes": 182531,
+      "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html"
+    }
+  ]
+}
