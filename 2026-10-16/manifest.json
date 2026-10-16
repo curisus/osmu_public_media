@@ -4,26 +4,26 @@
     {
       "public_path": "2026-10-16/top_1/card_01.png",
       "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
-      "sha256": "6f72fff3b23b8e0828008f45e74cf4716e900f24fc251ce646ec8846f366e7e7",
+      "sha256": "691dc27f08bd0048964a8f0baf8c8b3cacfafdc31ab5138f20189bf5ed8736ea",
       "width": 2160,
       "height": 2700,
-      "bytes": 481339
+      "bytes": 483334
     },
     {
       "public_path": "2026-10-16/top_1/card_02.png",
       "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
-      "sha256": "2b649f7d7e9480eae37e8b4e514592d54198002e4439b7718f75b7b0907a2240",
+      "sha256": "4db98d6607508b3639ac322709fb942d4df9bb0c0445343ce2ddf26c422ee933",
       "width": 2160,
       "height": 2700,
-      "bytes": 362540
+      "bytes": 363540
     },
     {
       "public_path": "2026-10-16/top_1/card_03.png",
       "source_article_url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
-      "sha256": "555610bfc67b7e143d4c6c69b7311ba13f14b1f02c421d78e90a25d08112195d",
+      "sha256": "c9df4e08602bb7f0d58ac9acaf74749e73dfaaf93b7c60c2aada155369329d07",
       "width": 2160,
       "height": 2700,
-      "bytes": 202611
+      "bytes": 202012
     },
     {
       "public_path": "2026-10-16/top_2/card_01.png",
@@ -108,18 +108,18 @@
     {
       "public_path": "2026-10-16/a8/card_02.png",
       "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html",
-      "sha256": "f90eae88c684365e0adeb58eeeac71b377dddb46cbd9240da76bc049a801f376",
+      "sha256": "376e13d874363dbaff507dc2fd95a610ee53836565cee4040c2b46d4001e89c9",
       "width": 2160,
       "height": 2700,
-      "bytes": 163258
+      "bytes": 162493
     },
     {
       "public_path": "2026-10-16/a8/card_03.png",
       "source_article_url": "https://www.prnewswire.com/news-releases/deloitte-launches-risk-clarity-to-help-organizations-modernize-risk-management-with-ai-powered-intelligence-302908086.html",
-      "sha256": "c9d990f22b43261f6439e7a2549fb43a05a34e7bb89bc66a1b1d85f182ca44eb",
+      "sha256": "522acdbdc3c2951996291f6248e9ebf4ab789ba23c0feff676b603424f9ed2ec",
       "width": 2160,
       "height": 2700,
-      "bytes": 174348
+      "bytes": 177239
     }
   ]
 }
